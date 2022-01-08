@@ -1,6 +1,6 @@
 ---
 date: 2022-01-08
-thumbnail: ''
+thumbnail: "/uploads/various-colors-scenery-photo-calendar-88.png"
 title: Crea tu primer videojuego en casa
 categories: []
 project_bg_color: ''
